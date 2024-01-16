@@ -9,6 +9,7 @@ Connect and let's start this data-driven journey together!
 - 👀 I’m interested in Data Science and anything Python/R.
 - 🌱 I’m currently learning Django and MERN stack to build some personal projects.
 - 💞️ I'm open to collaborating on any open-source project to enhance my skill set.
+- ✩  My Ultimate goal is to build an AI-driven software.
 - 📫 If you have any interesting opportunities or want to connect, please contact me @ aibrahim883@gmail.com! I am always open to expanding my network and exploring potential partnerships. 
 
 
